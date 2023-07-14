@@ -87,6 +87,7 @@ El media query @media screen and (max-width: 600px) establece estilos específic
 El modal-content define tambien una animación con una transformación de un traslateY con un -150vph y una duración de 1 segundo aproximado.
 
 Modal-cerrado define las animaciones que se aplican al cerrar el modal, respectivamente.
+
 JS
 
 La solicitud fetch se realiza a "data. json" para obtener los datos necesarios.
